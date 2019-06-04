@@ -44,10 +44,6 @@ self.__precacheManifest = [
     "url": "/fonts/GoogleSans-Regular.b5c77a6a.ttf"
   },
   {
-    "revision": "d65d8ad0385c2de9f5db95737cc2147a",
-    "url": "/img/gdg.d65d8ad0.jpg"
-  },
-  {
     "revision": "8feee5b967c4e9616a48ff9d48734830",
     "url": "/img/hero.8feee5b9.png"
   },
@@ -124,8 +120,8 @@ self.__precacheManifest = [
     "url": "/img/android.14ed07e6.svg"
   },
   {
-    "revision": "d7d55700b07db64d34da",
-    "url": "/js/app.a9ffae45.js"
+    "revision": "9a9386768c6ee9ff2a39",
+    "url": "/js/app.cb648723.js"
   },
   {
     "revision": "8a50435f9af90132f255eb24018c68dc",
@@ -148,12 +144,12 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-Black.59eb3601.woff2"
   },
   {
-    "revision": "e8eaae902c3a4dacb9a5062667e10576",
-    "url": "/fonts/Roboto-LightItalic.e8eaae90.woff2"
-  },
-  {
     "revision": "5b4a33e176ff736a74f0ca2dd9e6b396",
     "url": "/fonts/Roboto-ThinItalic.5b4a33e1.woff2"
+  },
+  {
+    "revision": "e8eaae902c3a4dacb9a5062667e10576",
+    "url": "/fonts/Roboto-LightItalic.e8eaae90.woff2"
   },
   {
     "revision": "4357beb823a5f8d65c260f045d9e019a",
@@ -196,12 +192,12 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-Black.313a6563.woff"
   },
   {
-    "revision": "8a96edbbcd9a6991d79371aed0b0288e",
-    "url": "/fonts/Roboto-ThinItalic.8a96edbb.woff"
-  },
-  {
     "revision": "13efe6cbc10b97144a28310ebdeda594",
     "url": "/fonts/Roboto-LightItalic.13efe6cb.woff"
+  },
+  {
+    "revision": "8a96edbbcd9a6991d79371aed0b0288e",
+    "url": "/fonts/Roboto-ThinItalic.8a96edbb.woff"
   },
   {
     "revision": "f5902d5ef961717ed263902fc429e6ae",
@@ -228,7 +224,7 @@ self.__precacheManifest = [
     "url": "/img/gdglogo.19fe90be.png"
   },
   {
-    "revision": "51be9f165f21ef69113b0c5406c87bca",
+    "revision": "c6000d60353886afa27214b604ad62b3",
     "url": "/index.html"
   },
   {
@@ -244,7 +240,7 @@ self.__precacheManifest = [
     "url": "/css/chunk-590f2d58.32b42bf8.css"
   },
   {
-    "revision": "d7d55700b07db64d34da",
-    "url": "/css/app.281f20db.css"
+    "revision": "9a9386768c6ee9ff2a39",
+    "url": "/css/app.33a741d7.css"
   }
 ];
